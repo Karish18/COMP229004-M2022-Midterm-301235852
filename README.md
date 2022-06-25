@@ -1,2 +1,2 @@
-# COMP229004-M2022-Midterm-301235852
- midterm
+# COMP229.M2022.Midterm.Template
+ COMP229.M2022 - Midterm Template
